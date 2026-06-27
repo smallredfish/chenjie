@@ -40,7 +40,7 @@
     <section class="hero">
       <div class="container hero-inner">
         <div class="hero-content">
-          <h1>让你的产品更出色的解决方案</h1>
+          <h1>不要忘记我</h1>
           <p class="lede">一个简洁的落地页模板，响应式、易扩展，并支持表单提交到 Formspree 或你自己的后端。</p>
           <div class="hero-cta">
             <a class="btn" href="#contact">免费咨询</a>
@@ -78,7 +78,7 @@
 
     <section id="contact" class="contact container">
       <h2>联系我们</h2>
-      <p>填写下方表单，我们会在 1 个工作日内回复你。</p>
+      <p>填写下方表单，但是老子懒得回。</p>
 
       <!-- 注意：将 action 替换为你的 Formspree ID 或后端 API -->
       <form id="contactForm" action="https://formspree.io/f/your-form-id" method="POST" class="form">
