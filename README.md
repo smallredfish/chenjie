@@ -41,10 +41,10 @@
       <div class="container hero-inner">
         <div class="hero-content">
           <h1>不要忘记我</h1>
-          <p class="lede">一个简洁的落地页模板，响应式、易扩展，并支持表单提交到 Formspree 或你自己的后端。</p>
+          <p class="lede">废了好大的劲做的，不想要就打死你。</p>
           <div class="hero-cta">
-            <a class="btn" href="#contact">免费咨询</a>
-            <a class="btn-ghost" href="#features">了解更多</a>
+            <a class="btn" href="#contact">万水千山</a>
+            <a class="btn-ghost" href="#features">山盟海誓应许</a>
           </div>
         </div>
         <div class="hero-art">
