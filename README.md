@@ -4,8 +4,8 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <meta name="description" content="示例公司/产品的落地页 - 简洁、响应式、易部署" />
-  <title>产品名 — 简洁落地页</title>
+  <meta name="description" content="微光" />
+  <title>毕业礼物</title>
 
   <!-- Google Font -->
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
